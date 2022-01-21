@@ -9,9 +9,10 @@ import reportWebVitals from './reportWebVitals';
 
 
 ReactDOM.render(
-    <BrowserRouter>
+<BrowserRouter>
 <App />
-<Covid /></BrowserRouter>,document.getElementById('root')
+<Covid />
+</BrowserRouter>,document.getElementById('root')
 
 );
 
