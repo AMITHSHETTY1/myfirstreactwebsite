@@ -2,6 +2,7 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App.js';
+import Covid from './Covid.js';
 import{BrowserRouter} from 'react-router-dom';
 
 import reportWebVitals from './reportWebVitals';
@@ -9,7 +10,8 @@ import reportWebVitals from './reportWebVitals';
 
 ReactDOM.render(
     <BrowserRouter>
-<App /></BrowserRouter>,document.getElementById('root')
+<App />
+<Covid /></BrowserRouter>,document.getElementById('root')
 
 );
 
