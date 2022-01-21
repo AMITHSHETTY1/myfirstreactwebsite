@@ -9,8 +9,8 @@ import reportWebVitals from './reportWebVitals';
 
 ReactDOM.render(
     <BrowserRouter>
-<App />,document.getElementById('root')
-</BrowserRouter>
+<App /></BrowserRouter>,document.getElementById('root')
+
 );
 
 // If you want to start measuring performance in your app, pass a function
