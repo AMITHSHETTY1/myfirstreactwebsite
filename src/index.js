@@ -5,10 +5,10 @@ import App from './App.js';
 import{BrowserRouter} from 'react-router-dom';
 
 import reportWebVitals from './reportWebVitals';
-import Covid from './Covid.js';
+
 
 ReactDOM.render(
-<Covid />
+<App />
     ,document.getElementById('root')
 );
 
